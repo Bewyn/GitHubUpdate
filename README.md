@@ -1,5 +1,8 @@
 GitHub Update [![Project Status: Unsupported - The project has reached a stable, usable state but the author(s) have ceased all work on it. A new maintainer may be desired.](http://www.repostatus.org/badges/latest/unsupported.svg)](http://www.repostatus.org/#unsupported)
 (https://goo.gl/maps/qzhrj1quiFeXgKzY9)
+
+
+
 =============
 
 **This project has been abandoned** by the owner as I do not use GitHub anymore. Feel free to fork and improve it, if you'd like.
@@ -39,3 +42,9 @@ else
 }
 ```
 See also the Sample project included in the repository.
+
+Contact us
+3magine
+642 King St W #403, Toronto, ON M5V 1M7, Canada
++1 416-551-6666
+www.3magine.com
